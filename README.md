@@ -4,11 +4,11 @@
 
 ## Project:  FitLess
 
-FitLess is a health monitor that problematizes traditional assumtions about wearable fitness devices. Where once such device were offered to collect data for personal use, we've seen a growing shift toward biometrics as a serveillence tool for both employers and insurance companies alike. Masked in the artiface its plastic "black box" casing, the device reduces health to a simple binary between "healthy" and "unhealthy," illuminating the limitations of reductive quantification, particularly in the shift from personal to corporate use.
+FitLess is a health monitor that problematizes traditional assumtions about wearable fitness devices. Where once such device were offered to collect data for personal use, we've seen a growing shift toward biometrics as a surveillence tool for both employers and insurance companies alike. Masked in the artifice of its plastic "black box" casing, the device reduces health to a simple binary between "healthy" and "unhealthy," illuminating the limitations of reductive quantification, particularly in the shift from personal to corporate use.
 
 ### Detailed Project Description
 
-<Biometric data has provided solutions to problems we didn't have, answers to we questions we haven't asked. Beyond the insecurity of the data they surrender to corporate control, do fitness trackers really necessarily solve any issues? Such devices ask new questions about what "healthy living" looks like through a useful computational lens, but as a topic that once relied on a broad variety of both qualitative and quantitative data, does this shift to pure computation adequately account for the many broad definitions of health present across the lines of size, race, gender, and ethnic identity? And with data from devices like FitBit increasingly requested by insurers, are we marching toward a future where simple differences in biometrics could increasingly limit healthcare coverage in the same way similar pre-existing conditions already operate today?
+Biometric data has provided solutions to problems we didn't have, answers to we questions we haven't asked. Beyond the insecurity of the data they surrender to corporate control, do fitness trackers really necessarily solve any issues? Such devices ask new questions about what "healthy living" looks like through a useful computational lens, but as a topic that once relied on a broad variety of both qualitative and quantitative data, does this shift to pure computation adequately account for the many broad definitions of health present across the lines of size, race, gender, and ethnic identity? And with data from devices like FitBit increasingly requested by insurers, are we marching toward a future where simple differences in biometrics could increasingly limit healthcare coverage in the same way similar pre-existing conditions already operate today?
 
 FitLess is not a solution to your problem. With a simple binary representation between "healthy" and "unhealthy," the device turns biometric heartrate data into a statement representative of the whole totality of healthy experience, exposing the limitations embedded within the use of even the most complex quantifications of what was once a largely qualitative process. Through this simple distinction, the device illuminates the limits of all biometric data, limited in their computational approach from the start. 
 
@@ -24,7 +24,6 @@ FitLess uses a Pulse Sensor to collect the simpliest reading of heartrate data i
 
 #### Code
 
-< Explain your code.  You might include code snippets, either `inline` or
 ```c++
 #include "PulseSensorPlaygroundh.h"
 
@@ -98,12 +97,12 @@ void text(String textToPrint) {
 
 I wanted to build off the original design for my midterm project in making use of the blackbox prototype, which continues to be prescient metaphor for a lot of what goes on beneath the surface of many everyday devices. From there, I adapted pieces from the SparkFun kit including the OLED and a Pulse Sensor I later purchased to collect biometric data and convert it be represented on the visual display.
 
-(images/closed.png)
+images/closed.png
 
-(images/open.png)
+images/open.png
 
 ### Evaluation / Reflection
 
-This project taught me a lot about how to approach conceptual challenges in design. Initially, I came to the piece with this fairly-specific "Solutionist" idea in mind, ultimately having a bit of a difficult time figuring out how best to execute such a critical idea in code. This tension feels central to what we first explored within this idea of "critical making," and it's something that seems increasingly necessary as we venture forward into a future where such data malpractices comes even further into focus.
+This project taught me a lot about how to approach conceptual challenges in design. Initially, I came to the piece with this fairly-specific "Solutionist" idea in mind, ultimately having a bit of a difficult time figuring out how best to execute such a critical idea in code. This tension feels central to what we first explored as embedded within this idea of "critical making," and it's something that seems increasingly necessary as we venture forward into a future where such data malpractice comes even further into focus.
 
-The project allowed me to explore my interest in theory, while also allowing me to further develop skills in critical thinking through code. Looking back, part of me wishes I could have attempted something on a larger scale with more impact. Though I'm still unsure where my future in physical computing will take me, it feels like we covered a wealth of fascinating topics condusive to further research in a number of areas.
+The project allowed me to explore my interest in theory, while also encouraging me to further develop skills in critical thinking through code. Looking back, part of me wishes I could have attempted something on a larger scale with a larger impact that would resonate in the class and beyond. Though still unsure where my future in physical computing will take me, it feels like we covered a wealth of fascinating topics condusive to further research in a variety of areas.
