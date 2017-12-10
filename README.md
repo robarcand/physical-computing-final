@@ -97,9 +97,9 @@ void text(String textToPrint) {
 
 I wanted to build off the original design for my midterm project in making use of the blackbox prototype, which continues to be prescient metaphor for a lot of what goes on beneath the surface of many everyday devices. From there, I adapted pieces from the SparkFun kit including the OLED and a Pulse Sensor I later purchased to collect biometric data and convert it be represented on the visual display.
 
-![Closed Project](images/closed.png)
+![Closed Project](images/closed.jpg)
 
-![Open Project](images/open.png)
+![Open Project](images/open.jpg)
 
 ### Evaluation / Reflection
 
